@@ -22,11 +22,12 @@ One of the major applications of mobile robotics is exploring and mapping an unk
 
 # Intended Audience
 
-Robotic environmental sampling and marine robotics are growing areas and include a range of issues that are distinctive with respect to the broader robotics community. Number of researchers interested in field robotics, particularly in marine environments, has increased in recent years. As environment monitoring is gaining more importance, there is a need for robotic solutions to these problems. This calls for an emphasis on large-scale multi-robot deployments and increased robustness. The expected audience to our workshop include experts in the field of robotic environmental sensing, researchers interested in taking their robotic solutions out into the field and wanting to understand the challenges involved, young researchers who want to present their work and get some qualitative feedback from experts, and researchers who are generally interested in understanding the advances and challenges in field robotics. We are also interested in attracting participation from biologists and environmental scientists from outside the traditional robotics discipline. We are inviting speakers who are domain experts with research on using robots to sampling and improving environment models.
+Robotic environmental sampling and marine robotics are growing areas and include a range of issues that are distinctive with respect to the broader robotics community. Number of researchers interested in field robotics, particularly in marine environments, has increased in recent years. As environment monitoring is gaining more importance, there is a need for robotic solutions to these problems. This calls for an emphasis on large-scale multi-robot deployments and increased robustness. The expected audience to our workshop include experts in the field of robotic environmental sensing, researchers interested in taking their robotic solutions out into the field and wanting to understand the challenges involved, young researchers who want to present their work and get some qualitative feedback from experts, and researchers who are generally interested in understanding the advances and challenges in field robotics. We are also interested in attracting participation from biologists and environmental scientists from outside the traditional robotics discipline.
 
-## Invited Speaker
+## Invited Speakers
 
 <> [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
+
 [João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa)
 
 ## Header 2
