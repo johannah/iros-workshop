@@ -1,9 +1,4 @@
----
-title: This is my title
-layout: post
----
 
-Here is my page.
 
 ## Informed Scientific Sampling in Large-scale Outdoor Environments
 
