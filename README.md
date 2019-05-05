@@ -1,3 +1,10 @@
+---
+title: This is my title
+layout: post
+---
+
+Here is my page.
+
 ## Informed Scientific Sampling in Large-scale Outdoor Environments
 
 One of the major applications of mobile robotics is exploring and mapping an unknown environmental field. Persistent spatio-temporal maps of environmental phenomena have a critical role in understanding the interplay between the changing global conditions and human activities that might be causing these changes. Building such persistent maps of environmental fields for a given region over a period of time requires continuous sensing. This problem has been tackled previously by deploying a network of static sensor nodes uniformly across the region of interest or by conducting a uniform survey of the region. In general, however, environmental fields of interest are non-uniform over a given region and dynamic over a time period. Persistent mapping of such fields requires the mobile robots which selectively sense and are aimed at reducing cost and increasing flexibility when compared to static sensors. 
