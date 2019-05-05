@@ -21,8 +21,8 @@ In this workshop, we aim at understanding the progress in the field of robotic s
 [João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Porto University  
 [Lantao Liu](http://homes.sice.indiana.edu/lantao/), Indiana University - Bloomington  
 [Mandar Chitre](http://www.chitre.net/), Tropical Marine Science Institute and the National University of Singapore  
-[//]: # (Christian Katlein)  
-[//]: # (Roland Siegwart http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)  
+<!--- (Christian Katlein)  --->
+<!--- (Roland Siegwart http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)  --->
 
 ## Schedule
 
