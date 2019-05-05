@@ -24,13 +24,18 @@ One of the major applications of mobile robotics is exploring and mapping an unk
 
 Robotic environmental sampling and marine robotics are growing areas and include a range of issues that are distinctive with respect to the broader robotics community. Number of researchers interested in field robotics, particularly in marine environments, has increased in recent years. As environment monitoring is gaining more importance, there is a need for robotic solutions to these problems. This calls for an emphasis on large-scale multi-robot deployments and increased robustness. The expected audience to our workshop include experts in the field of robotic environmental sensing, researchers interested in taking their robotic solutions out into the field and wanting to understand the challenges involved, young researchers who want to present their work and get some qualitative feedback from experts, and researchers who are generally interested in understanding the advances and challenges in field robotics. We are also interested in attracting participation from biologists and environmental scientists from outside the traditional robotics discipline.
 
-## Invited Speakers
+## Confirmed Speakers
 
-[//]: # ([Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981))
+
 
 [João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Professor at the Electrical and Computer Engineering Department from Porto University
 
 [Lantao Liu](http://homes.sice.indiana.edu/lantao/), Assistant Professor in the Intelligent Systems Engineering Department at Indiana University - Bloomington
+
+[Mandar Chitre](http://www.chitre.net/), Head of the Acoustic Research Laboratory (ARL) at the Tropical Marine Science Institute (TMSI) in Singapore and Associate Professor at the Department of Electrical & Computer Engineering (ECE) of the National University of Singapore (NUS)
+
+[//]: # (Christian Katlein)
+[//]: # (Roland Siegwart http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
  
 ## Header 2
 ### Header 3
