@@ -26,7 +26,7 @@ Robotic environmental sampling and marine robotics are growing areas and include
 
 ## Invited Speakers
 
-<> [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
+[//]: <> [Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
 
 [João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa)
 
