@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
-title: "Workshop on Informed Scientific Sampling in Large-scale Outdoor Environments at IROS 2019 in Macau"
+title: "Workshop on Informed Scientific Sampling in Large-scale Outdoor Environments"
+description: "IROS 2019 Macau"
 github:
   is_project_page: false
+kramdown:
+    auto_ids: true
