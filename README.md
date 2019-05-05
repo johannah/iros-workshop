@@ -25,10 +25,14 @@ Robotic environmental sampling and marine robotics are growing areas and include
 
 ## Confirmed Speakers
 
-[João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Electrical and Computer Engineering Department at Porto University 
-[Lantao Liu](http://homes.sice.indiana.edu/lantao/), Intelligent Systems Engineering Department at Indiana University - Bloomington 
-[Mandar Chitre](http://www.chitre.net/), Acoustic Research Laboratory (ARL) at the Tropical Marine Science Institute (TMSI) and the Department of Electrical & Computer Engineering (ECE) of the National University of Singapore (NUS) 
+[João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Porto University 
+
+[Lantao Liu](http://homes.sice.indiana.edu/lantao/), Indiana University - Bloomington 
+
+[Mandar Chitre](http://www.chitre.net/), Tropical Marine Science Institute and the National University of Singapore
+
 [//]: # (Christian Katlein)
+
 [//]: # (Roland Siegwart http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
 
 ## Schedule
@@ -37,10 +41,10 @@ TBD
 
 ## Important Dates
 
-Submission deadline: TBD (Anywhere on Earth)
-Notification: TBD
-Camera ready: TBD
-Workshop: TBD
+Submission deadline: TBD (Anywhere on Earth) 
+Notification: TBD 
+Camera ready: TBD 
+Workshop: TBD 
 
 ## Call for Papers
 
