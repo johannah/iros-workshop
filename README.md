@@ -37,7 +37,7 @@ Notification: TBD
 Camera ready: TBD  
 Workshop: TBD  
 
-## Call for Papers
+## Submission Instructions
 
 TBD
 
