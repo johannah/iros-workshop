@@ -1,11 +1,10 @@
 ## Informed Scientific Sampling in Large-scale Outdoor Environments
 
+One of the major applications of mobile robotics is exploring and mapping an unknown environmental field. Persistent spatio-temporal maps of environmental phenomena have a critical role in understanding the interplay between the changing global conditions and human activities that might be causing these changes. Building such persistent maps of environmental fields for a given region over a period of time requires continuous sensing. This problem has been tackled previously by deploying a network of static sensor nodes uniformly across the region of interest or by conducting a uniform survey of the region. In general, however, environmental fields of interest are non-uniform over a given region and dynamic over a time period. Persistent mapping of such fields requires the mobile robots which selectively sense and are aimed at reducing cost and increasing flexibility when compared to static sensors. 
+
 In this workshop, we aim at understanding the progress in the field of robotic sampling for monitoring large-scale outdoor environments, such as forests, large water bodies, agricultural fields, and complex urban settings. We also plan to focus and learn about the challenges faced by researchers in mapping and understanding these difficult environments. This workshop is aimed at providing a complete overview of the research related to field robotics in aerial, forest, urban, and marine applications. 
 
 We plan to discuss a series of research issues that include measurement collection and evaluation, communication between multiple data-sampling robots, data fusion, sensor motion, pollution monitoring, and wildlife tracking. Regardless of the applications, all these tasks aim at information acquisition.
-
-One of the major applications of mobile robotics is exploring and mapping an unknown environmental field. Persistent spatio-temporal maps of environmental phenomena have a critical role in understanding the interplay between the changing global conditions and human activities that might be causing these changes. Building such persistent maps of environmental fields for a given region over a period of time requires continuous sensing. This problem has been tackled previously by deploying a network of static sensor nodes uniformly across the region of interest or by conducting a uniform survey of the region. In general, however, environmental fields of interest are non-uniform over a given region and dynamic over a time period. Persistent mapping of such fields requires the mobile robots which selectively sense and are aimed at reducing cost and increasing flexibility when compared to static sensors. 
-
 
 - Active sampling
 - Informed path planning
@@ -26,37 +25,34 @@ Robotic environmental sampling and marine robotics are growing areas and include
 
 ## Confirmed Speakers
 
-
-
-[João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Professor at the Electrical and Computer Engineering Department from Porto University
-
-[Lantao Liu](http://homes.sice.indiana.edu/lantao/), Assistant Professor in the Intelligent Systems Engineering Department at Indiana University - Bloomington
-
-[Mandar Chitre](http://www.chitre.net/), Head of the Acoustic Research Laboratory (ARL) at the Tropical Marine Science Institute (TMSI) in Singapore and Associate Professor at the Department of Electrical & Computer Engineering (ECE) of the National University of Singapore (NUS)
-
+[João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Electrical and Computer Engineering Department at Porto University 
+[Lantao Liu](http://homes.sice.indiana.edu/lantao/), Intelligent Systems Engineering Department at Indiana University - Bloomington 
+[Mandar Chitre](http://www.chitre.net/), Acoustic Research Laboratory (ARL) at the Tropical Marine Science Institute (TMSI) and the Department of Electrical & Computer Engineering (ECE) of the National University of Singapore (NUS) 
 [//]: # (Christian Katlein)
 [//]: # (Roland Siegwart http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981)
- 
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Schedule
 
-1. Numbered
-2. List
+TBD
 
-**Bold** and _Italic_ and `Code` text
+## Important Dates
 
-[Link](url) and ![Image](src)
-```
+Submission deadline: TBD (Anywhere on Earth)
+Notification: TBD
+Camera ready: TBD
+Workshop: TBD
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Call for Papers
 
-### Jekyll Themes
+TBD
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johannah/iros-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Accepted Papers
 
-### Support or Contact
+TBD
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Organizers
+
+Sandeep Manjanna, McGill University
+Gregory Dudek, McGill University
+Oscar Pizarro, University of Sydney
+Johanna Hansen, McGill University
