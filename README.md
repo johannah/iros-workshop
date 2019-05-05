@@ -28,7 +28,7 @@ Robotic environmental sampling and marine robotics are growing areas and include
 
 [//]: <> ([Roland Siegwart](http://www.asl.ethz.ch/the-lab/people/person-detail.html?persid=29981))
 
-[João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa)
+[João Sousa](https://www.lsts.pt/member/jo%C3%A3o-sousa), Professor at the Electrical and Computer Engineering Department from Porto University
 
 ## Header 2
 ### Header 3
